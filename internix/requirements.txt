@@ -1,0 +1,10 @@
+Flask==2.3.2
+pymongo==4.6.1
+dnspython==2.4.2
+werkzeug==2.3.7
+python-dotenv==1.0.1
+timeago==1.0.16
+Flask-Mail==0.9.1       # For sending emails
+Flask-Uploads==0.2.1     # For handling file uploads
+gunicorn==21.2.0         # If deploying to production 
+vercel-python
